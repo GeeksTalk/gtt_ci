@@ -10,6 +10,6 @@ class GttCi(TestCase):
     def test_response_code(self):
         self.assertEquals(self.resp_code, 200)
 
-    def test_response_code(self):
+    def test_response_text(self):
         print(self.resp_text2)
         self.assertNotEquals(self.resp_text1, self.resp_text2)
