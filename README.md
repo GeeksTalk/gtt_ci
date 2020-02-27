@@ -1,3 +1,3 @@
 ## GTT django Travis Ci
 
-[![Build Status](https://travis-ci.org/<github username>/<repo name>.svg?branch=master)](https://travis-ci.org/<github username>/<repo name>) 
+[![Build Status](https://travis-ci.org/GikonyoBrian/gtt_ci.svg?branch=master)](https://travis-ci.org/GikonyoBrian/gtt_ci) 
