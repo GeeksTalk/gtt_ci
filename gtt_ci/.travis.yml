@@ -6,5 +6,6 @@ language: python
         - pipenv install --dev
     before_script:
       - pipenv shell
+      - cd gtt_ci
     script:
-      - python manage.py gtt_ci/test
+      - python manage.py test
